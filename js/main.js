@@ -9,8 +9,8 @@ let supabaseDataClient = null;
 let activeDataSource = "none";
 let dailyAggregationCache = null;
 
-const SUPABASE_URL = "https://llwouyvyxxmdkydzspeh.supabase.co";
-const SUPABASE_ANON_KEY = "sb_publishable_tnJhcv4dBQvRJ2iEhrE8sQ_INzR8W2e";
+const SUPABASE_URL = "https://xlkuflyaktbjvlngpiib.supabase.co";
+const SUPABASE_ANON_KEY = "sb_publishable_8ps-x6lFJMvYjXDQYWvtdw_u8uNrP74";
 
 const CHANNEL_TRAFFIC_KEYS = {
   "Google Ads": "google_ads",

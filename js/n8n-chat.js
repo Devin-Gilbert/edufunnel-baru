@@ -2,7 +2,7 @@
 // Isi N8N_CHAT_URL dengan "Production URL" dari node "When chat message received".
 import { createChat } from "https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js";
 
-const N8N_CHAT_URL = "https://crimp-shawl-thesis.ngrok-free.dev/webhook/e5bd7fec-3a4a-4c53-ae2c-bc41ad89f926/chat";
+const N8N_CHAT_URL = "https://earthy-consumer-bullwhip.ngrok-free.dev/webhook/e5bd7fec-3a4a-4c53-ae2c-bc41ad89f926/chat";
 
 let chatStarted = false;
 
